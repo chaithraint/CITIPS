@@ -10,7 +10,7 @@ const modelsData = [
         likes: "856",
         formats: [".SKP", ".OBJ"],
         isPremium: false,
-        fileUrl: "models/model_1.skp" // Add your actual file paths here
+        fileUrl: "Models/model 1.skp" // Add your actual file paths here
     },
     {
         id: 2,
